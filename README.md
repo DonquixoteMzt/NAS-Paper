@@ -1,7 +1,7 @@
 This is a paper list of research about AutoML.
 
-Neural Architecture Search
-ICML 2021
+# Neural Architecture Search
+## ICML 2021
 AutoAttend: Automated Attention Representation Search
 Auto-NBA: Efficient and Effective Search Over the Joint Space of Networks, Bitwidths, and Accelerators
 Beyond the Pareto Efficient Frontier: Constraint Active Search for Multiobjective Experimental Design
