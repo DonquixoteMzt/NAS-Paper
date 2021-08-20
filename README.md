@@ -1,4 +1,4 @@
-This is a paper list of research about AutoML.
+This is a list of paper about AutoML.
 
 # Neural Architecture Search
 ## ICML 2021
