@@ -13,5 +13,5 @@ HardCoRe-NAS: Hard Constrained diffeRentiable Neural Architecture Search
 iDARTS: Differentiable Architecture Search with Stochastic Implicit Gradients  
 KNAS: Green Neural Architecture Search  
 K-shot NAS: Learnable Weight-Sharing for NAS with K-shot Supernets  
-Neural Architecture Search without Training  
+Neural Architecture Search without Training, [code](https://github.com/BayesWatch/nas-without-training)  
 Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search
