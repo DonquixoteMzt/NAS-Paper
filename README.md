@@ -2,7 +2,7 @@ This is a list of paper about AutoML.
 
 # Neural Architecture Search
 ## ICLR 2021
-Rethinking Architecture Selection in Differentiable NAS
+Rethinking Architecture Selection in Differentiable NAS  
 HW-NAS-Bench: Hardware-Aware Neural Architecture Search Benchmark
 ## ICML 2021
 AutoAttend: Automated Attention Representation Search  
