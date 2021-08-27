@@ -1,6 +1,8 @@
 This is a list of paper about AutoML.
 
 # Neural Architecture Search
+## ECCV 2020
+A Generic Graph-based Neural Architecture Encoding Scheme for Predictor-based NAS  
 ## ICLR 2021
 Rethinking Architecture Selection in Differentiable NAS  
 HW-NAS-Bench: Hardware-Aware Neural Architecture Search Benchmark
