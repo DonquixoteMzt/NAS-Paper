@@ -7,7 +7,9 @@ A Generic Graph-based Neural Architecture Encoding Scheme for Predictor-based NA
 Rethinking Architecture Selection in Differentiable NAS  
 HW-NAS-Bench: Hardware-Aware Neural Architecture Search Benchmark
 Locally Free Weight Sharing for Network Width Search  
-GEOMETRY-AWARE GRADIENT ALGORITHMS FOR NEURAL ARCHITECTURE SEARCH
+GEOMETRY-AWARE GRADIENT ALGORITHMS FOR NEURAL ARCHITECTURE SEARCH  
+NAS-Bench-ASR: Reproducible Neural Architecture Search for Speech Recognition  
+DrNAS: Dirichlet Neural Architecture Search
 ## ICML 2021
 AutoAttend: Automated Attention Representation Search  
 Auto-NBA: Efficient and Effective Search Over the Joint Space of Networks, Bitwidths, and Accelerators  
