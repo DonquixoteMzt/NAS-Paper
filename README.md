@@ -5,7 +5,8 @@ This is a list of paper about AutoML.
 A Generic Graph-based Neural Architecture Encoding Scheme for Predictor-based NAS  
 ## ICLR 2021
 Rethinking Architecture Selection in Differentiable NAS  
-HW-NAS-Bench: Hardware-Aware Neural Architecture Search Benchmark
+HW-NAS-Bench: Hardware-Aware Neural Architecture Search Benchmark  
+GEOMETRY-AWARE GRADIENT ALGORITHMS FOR NEURAL ARCHITECTURE SEARCH
 ## ICML 2021
 AutoAttend: Automated Attention Representation Search  
 Auto-NBA: Efficient and Effective Search Over the Joint Space of Networks, Bitwidths, and Accelerators  
