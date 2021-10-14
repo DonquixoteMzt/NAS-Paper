@@ -26,5 +26,5 @@ Neural Architecture Search without Training [[code]](https://github.com/BayesWat
 Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search
 ## ICCV 2021
 [GLiT: Neural Architecture Search for Global and Local Image Transformer](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_GLiT_Neural_Architecture_Search_for_Global_and_Local_Image_Transformer_ICCV_2021_paper.pdf) [[code]](https://github.com/bychen515/GLiT)  
-Achieving on-Mobile Real-Time Super-Resolution with Neural Architecture and Pruning Search  
-BN-NAS: Neural Architecture Search with Batch Normalization [[code]](https://github.com/bychen515/BNNAS)  
+[Achieving on-Mobile Real-Time Super-Resolution with Neural Architecture and Pruning Search](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhan_Achieving_On-Mobile_Real-Time_Super-Resolution_With_Neural_Architecture_and_Pruning_Search_ICCV_2021_paper.pdf)  
+[BN-NAS: Neural Architecture Search with Batch Normalization](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_BN-NAS_Neural_Architecture_Search_With_Batch_Normalization_ICCV_2021_paper.pdf) [[code]](https://github.com/bychen515/BNNAS)  
