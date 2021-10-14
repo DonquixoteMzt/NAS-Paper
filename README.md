@@ -24,3 +24,7 @@ KNAS: Green Neural Architecture Search
 K-shot NAS: Learnable Weight-Sharing for NAS with K-shot Supernets  
 Neural Architecture Search without Training [[code]](https://github.com/BayesWatch/nas-without-training)  
 Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search
+## ICCV 2021
+GLiT: Neural Architecture Search for Global and Local Image Transformer [[code]](https://github.com/bychen515/GLiT)  
+Achieving on-Mobile Real-Time Super-Resolution with Neural Architecture and Pruning Search  
+BN-NAS: Neural Architecture Search with Batch Normalization [[code]](https://github.com/bychen515/BNNAS)  
