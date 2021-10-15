@@ -39,3 +39,4 @@ Neural Architecture Search for Joint Human Parsing and Pose Estimation
 CM-NAS: Cross-Modality Neural Architecture Search for Visible-Infrared Person Re-Identification  
 NAS-OoD: Neural Architecture Search for Out-of-Distribution Generalization  
 FairNAS: Rethinking Evaluation Fairness of Weight Sharing Neural Architecture Search  
+iNAS: Integral NAS for Device-Aware Salient Object Detection
