@@ -36,7 +36,8 @@ Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search
 [BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_BossNAS_Exploring_Hybrid_CNN-Transformers_With_Block-Wisely_Self-Supervised_Neural_Architecture_Search_ICCV_2021_paper.pdf)  
 Pi-NAS: Improving Neural Architecture Search by Reducing Supernet Training Consistency Shift  
 Neural Architecture Search for Joint Human Parsing and Pose Estimation  
-CM-NAS: Cross-Modality Neural Architecture Search for Visible-Infrared Person Re-Identification  
+[CM-NAS: Cross-Modality Neural Architecture Search for Visible-Infrared Person Re-Identification](https://openaccess.thecvf.com/content/ICCV2021/papers/Fu_CM-NAS_Cross-Modality_Neural_Architecture_Search_for_Visible-Infrared_Person_Re-Identification_ICCV_2021_paper.pdf) [[CODE]]( https://github.com/
+JDAI-CV/CM-NAS)  
 NAS-OoD: Neural Architecture Search for Out-of-Distribution Generalization  
-FairNAS: Rethinking Evaluation Fairness of Weight Sharing Neural Architecture Search  
-iNAS: Integral NAS for Device-Aware Salient Object Detection
+[FairNAS: Rethinking Evaluation Fairness of Weight Sharing Neural Architecture Search](https://openaccess.thecvf.com/content/ICCV2021/papers/Chu_FairNAS_Rethinking_Evaluation_Fairness_of_Weight_Sharing_Neural_Architecture_Search_ICCV_2021_paper.pdf) [[CODE]]()  
+[iNAS: Integral NAS for Device-Aware Salient Object Detection](https://openaccess.thecvf.com/content/ICCV2021/papers/Gu_iNAS_Integral_NAS_for_Device-Aware_Salient_Object_Detection_ICCV_2021_paper.pdf) [[CODE]](https://mmcheng.net/inas/)
