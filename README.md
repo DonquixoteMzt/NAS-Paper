@@ -41,3 +41,14 @@ Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search
 [Not All Operations Contribute Equally: Hierarchical Operation-adaptive Predictor for Neural Architecture Search](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Not_All_Operations_Contribute_Equally_Hierarchical_Operation-Adaptive_Predictor_for_Neural_ICCV_2021_paper.pdf)  
 [Learning Latent Architectural Distribution in Differentiable Neural Architecture Search via Variational Information Maximization](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Learning_Latent_Architectural_Distribution_in_Differentiable_Neural_Architecture_Search_via_ICCV_2021_paper.pdf)   
 ## Neurips 2021
+TNASP: A Transformer-based NAS Predictor with a Self-evolution Framework [https://proceedings.neurips.cc/paper/2021/hash/7fa1575cbd7027c9a799983a485c3c2f-Abstract.html]  
+NAS-Bench-x11 and the Power of Learning Curves [https://proceedings.neurips.cc/paper/2021/hash/be3159ad04564bfb90db9e32851ebf9c-Abstract.html]  
+Hardware-adaptive Efficient Latency Prediction for NAS via Meta-Learning [https://proceedings.neurips.cc/paper/2021/hash/e3251075554389fe91d17a794861d47b-Abstract.html]  
+Stronger NAS with Weaker Predictors [https://proceedings.neurips.cc/paper/2021/hash/f22e4747da1aa27e363d86d40ff442fe-Abstract.html] 
+Speedy Performance Estimation for Neural Architecture Search [https://proceedings.neurips.cc/paper/2021/hash/2130eb640e0a272898a51da41363542d-Abstract.html]  
+Evaluating Efficient Performance Estimators of Neural Architectures [https://proceedings.neurips.cc/paper/2021/hash/65d90fc6d307590b14e9e1800d4e8eab-Abstract.html]  
+Generic Neural Architecture Search via Regression [https://proceedings.neurips.cc/paper/2021/hash/aba53da2f6340a8b89dc96d09d0d0430-Abstract.html]  
+CoFrNets: Interpretable Neural Architecture Inspired by Continued Fractions [https://proceedings.neurips.cc/paper/2021/hash/b538f279cb2ca36268b23f557a831508-Abstract.html]  
+How Powerful are Performance Predictors in Neural Architecture Search? [https://proceedings.neurips.cc/paper/2021/hash/ef575e8837d065a1683c022d2077d342-Abstract.html]  
+Graph Differentiable Architecture Search with Structure Learning [https://proceedings.neurips.cc/paper/2021/hash/8c9f32e03aeb2e3000825c8c875c4edd-Abstract.html]  
+Parameter Prediction for Unseen Deep Architectures [https://proceedings.neurips.cc/paper/2021/hash/f6185f0ef02dcaec414a3171cd01c697-Abstract.html]
