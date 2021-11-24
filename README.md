@@ -1,6 +1,4 @@
-This is a list of paper about AutoML.
-
-# Neural Architecture Search
+# Papers of Neural Architecture Search
 ## ECCV 2020
 A Generic Graph-based Neural Architecture Encoding Scheme for Predictor-based NAS  
 ## ICLR 2021
