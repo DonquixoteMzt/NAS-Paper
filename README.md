@@ -11,7 +11,8 @@ NAS-Bench-ASR: Reproducible Neural Architecture Search for Speech Recognition
 DrNAS: Dirichlet Neural Architecture Search  
 Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets  
 Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective  
-SEDONA: Search for Decoupled Neural Networks toward Greedy Block-wise Learning
+SEDONA: Search for Decoupled Neural Networks toward Greedy Block-wise Learning  
+[Zero-Cost Proxies for Lightweight NAS](https://openreview.net/forum?id=0cmMMy8J5q)[[CODE]](https://github.com/mohsaied/zero-cost-nas)
 ## ICML 2021
 AutoAttend: Automated Attention Representation Search  
 Auto-NBA: Efficient and Effective Search Over the Joint Space of Networks, Bitwidths, and Accelerators  
