@@ -3,7 +3,7 @@
 Neural Predictor for Neural Architecture Search  
 A Generic Graph-based Neural Architecture Encoding Scheme for Predictor-based NAS  
 ## ICLR 2021
-Rethinking Architecture Selection in Differentiable NAS  
+[Rethinking Architecture Selection in Differentiable NAS](https://openreview.net/forum?id=PKubaeJkw3)  
 HW-NAS-Bench: Hardware-Aware Neural Architecture Search Benchmark
 Locally Free Weight Sharing for Network Width Search  
 GEOMETRY-AWARE GRADIENT ALGORITHMS FOR NEURAL ARCHITECTURE SEARCH  
