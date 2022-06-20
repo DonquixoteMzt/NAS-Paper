@@ -58,12 +58,12 @@ Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search
 Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning  
 β-DARTS: Beta-Decay Regularization for Differentiable Architecture Search  
 Training-Free Transformer Architecture Search  
-Demystifying the Neural Tangent Kernel From a Practical Perspective: Can It Be Trusted for Neural Architecture Search Without Training?  
+[Demystifying the Neural Tangent Kernel From a Practical Perspective: Can It Be Trusted for Neural Architecture Search Without Training?](https://arxiv.org/abs/2203.14577)  
 BaLeNAS: Differentiable Architecture Search via the Bayesian Learning Rule  
 Arch-Graph: Acyclic Architecture Relation Predictor for Task-Transferable Neural Architecture Search  
 Shapley-NAS: Discovering Operation Contribution for Neural Architecture Search  
 GreedyNASv2: Greedier Search With a Greedy Path Filter  
 Neural Architecture Search With Representation Mutual Information  
 Performance-Aware Mutual Knowledge Distillation for Improving Neural Architecture Search  
-Searching the Deployable Convolution Neural Networks for GPUs  
+[Searching the Deployable Convolution Neural Networks for GPUs](https://arxiv.org/abs/2205.00841)  
 HyperSegNAS: Bridging One-Shot Neural Architecture Search With 3D Medical Image Segmentation Using HyperNet  
