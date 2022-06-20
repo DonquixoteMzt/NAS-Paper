@@ -56,3 +56,5 @@ Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search
 [Searching the Search Space of Vision Transformer](https://proceedings.neurips.cc/paper/2021/hash/48e95c45c8217961bf6cd7696d80d238-Abstract.html)
 ## CVPR 2022
 Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning  
+β-DARTS: Beta-Decay Regularization for Differentiable Architecture Search
+Training-Free Transformer Architecture Search
