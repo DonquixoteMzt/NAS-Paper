@@ -56,12 +56,12 @@ Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search
 [Searching the Search Space of Vision Transformer](https://proceedings.neurips.cc/paper/2021/hash/48e95c45c8217961bf6cd7696d80d238-Abstract.html)
 ## CVPR 2022
 Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning  
-β-DARTS: Beta-Decay Regularization for Differentiable Architecture Search  
-Training-Free Transformer Architecture Search  
+[β-DARTS: Beta-Decay Regularization for Differentiable Architecture Search](https://openaccess.thecvf.com/content/CVPR2022/papers/Ye_b-DARTS_Beta-Decay_Regularization_for_Differentiable_Architecture_Search_CVPR_2022_paper.pdf)  
+[Training-Free Transformer Architecture Search](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Training-Free_Transformer_Architecture_Search_CVPR_2022_paper.pdf)  
 Demystifying the Neural Tangent Kernel From a Practical Perspective: Can It Be Trusted for Neural Architecture Search Without Training?
 [BaLeNAS: Differentiable Architecture Search via the Bayesian Learning Rule](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_BaLeNAS_Differentiable_Architecture_Search_via_the_Bayesian_Learning_Rule_CVPR_2022_paper.pdf)  
 [Arch-Graph: Acyclic Architecture Relation Predictor for Task-Transferable Neural Architecture Search](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Arch-Graph_Acyclic_Architecture_Relation_Predictor_for_Task-Transferable_Neural_Architecture_Search_CVPR_2022_paper.pdf)  
-Shapley-NAS: Discovering Operation Contribution for Neural Architecture Search  
+[Shapley-NAS: Discovering Operation Contribution for Neural Architecture Search](https://openaccess.thecvf.com/content/CVPR2022/papers/Xiao_Shapley-NAS_Discovering_Operation_Contribution_for_Neural_Architecture_Search_CVPR_2022_paper.pdf)    
 [GreedyNASv2: Greedier Search With a Greedy Path Filter](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_GreedyNASv2_Greedier_Search_With_a_Greedy_Path_Filter_CVPR_2022_paper.pdf)  
 Neural Architecture Search With Representation Mutual Information  
 [Performance-Aware Mutual Knowledge Distillation for Improving Neural Architecture Search](https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_Performance-Aware_Mutual_Knowledge_Distillation_for_Improving_Neural_Architecture_Search_CVPR_2022_paper.pdf)  
