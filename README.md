@@ -40,7 +40,7 @@ Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search
 [Zen-NAS: A Zero-Shot NAS for High-Performance Image Recognition](https://openaccess.thecvf.com/content/ICCV2021/papers/Lin_Zen-NAS_A_Zero-Shot_NAS_for_High-Performance_Image_Recognition_ICCV_2021_paper.pdf) [[CODE]](https://openaccess.thecvf.com/content/ICCV2021/papers/Lin_Zen-NAS_A_Zero-Shot_NAS_for_High-Performance_Image_Recognition_ICCV_2021_paper.pdf)  
 [Not All Operations Contribute Equally: Hierarchical Operation-adaptive Predictor for Neural Architecture Search](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Not_All_Operations_Contribute_Equally_Hierarchical_Operation-Adaptive_Predictor_for_Neural_ICCV_2021_paper.pdf)  
 [Learning Latent Architectural Distribution in Differentiable Neural Architecture Search via Variational Information Maximization](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Learning_Latent_Architectural_Distribution_in_Differentiable_Neural_Architecture_Search_via_ICCV_2021_paper.pdf)   
-## Neurips 2021
+## NeurIPS 2021
 [TNASP: A Transformer-based NAS Predictor with a Self-evolution Framework](https://proceedings.neurips.cc/paper/2021/hash/7fa1575cbd7027c9a799983a485c3c2f-Abstract.html)  
 [NAS-Bench-x11 and the Power of Learning Curves](https://proceedings.neurips.cc/paper/2021/hash/be3159ad04564bfb90db9e32851ebf9c-Abstract.html)  
 [Hardware-adaptive Efficient Latency Prediction for NAS via Meta-Learning](https://proceedings.neurips.cc/paper/2021/hash/e3251075554389fe91d17a794861d47b-Abstract.html)  
@@ -66,3 +66,4 @@ GreedyNASv2: Greedier Search With a Greedy Path Filter
 Neural Architecture Search With Representation Mutual Information  
 Performance-Aware Mutual Knowledge Distillation for Improving Neural Architecture Search  
 Searching the Deployable Convolution Neural Networks for GPUs  
+HyperSegNAS: Bridging One-Shot Neural Architecture Search With 3D Medical Image Segmentation Using HyperNet  
