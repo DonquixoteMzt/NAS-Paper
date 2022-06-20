@@ -55,10 +55,10 @@ Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search
 [Searching for Efficient Transformers for Language Modeling](https://proceedings.neurips.cc/paper/2021/hash/2f3c6a4cd8af177f6456e7e51a916ff3-Abstract.html)  
 [Searching the Search Space of Vision Transformer](https://proceedings.neurips.cc/paper/2021/hash/48e95c45c8217961bf6cd7696d80d238-Abstract.html)
 ## CVPR 2022
-Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning  
+[Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Neural_Architecture_Search_With_Representation_Mutual_Information_CVPR_2022_paper.pdf)    
 [β-DARTS: Beta-Decay Regularization for Differentiable Architecture Search](https://openaccess.thecvf.com/content/CVPR2022/papers/Ye_b-DARTS_Beta-Decay_Regularization_for_Differentiable_Architecture_Search_CVPR_2022_paper.pdf)  
 [Training-Free Transformer Architecture Search](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Training-Free_Transformer_Architecture_Search_CVPR_2022_paper.pdf)  
-Demystifying the Neural Tangent Kernel From a Practical Perspective: Can It Be Trusted for Neural Architecture Search Without Training?
+[Demystifying the Neural Tangent Kernel From a Practical Perspective: Can It Be Trusted for Neural Architecture Search Without Training?](https://openaccess.thecvf.com/content/CVPR2022/papers/Mok_Demystifying_the_Neural_Tangent_Kernel_From_a_Practical_Perspective_Can_CVPR_2022_paper.pdf)
 [BaLeNAS: Differentiable Architecture Search via the Bayesian Learning Rule](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_BaLeNAS_Differentiable_Architecture_Search_via_the_Bayesian_Learning_Rule_CVPR_2022_paper.pdf)  
 [Arch-Graph: Acyclic Architecture Relation Predictor for Task-Transferable Neural Architecture Search](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Arch-Graph_Acyclic_Architecture_Relation_Predictor_for_Task-Transferable_Neural_Architecture_Search_CVPR_2022_paper.pdf)  
 [Shapley-NAS: Discovering Operation Contribution for Neural Architecture Search](https://openaccess.thecvf.com/content/CVPR2022/papers/Xiao_Shapley-NAS_Discovering_Operation_Contribution_for_Neural_Architecture_Search_CVPR_2022_paper.pdf)    
@@ -66,4 +66,4 @@ Demystifying the Neural Tangent Kernel From a Practical Perspective: Can It Be T
 Neural Architecture Search With Representation Mutual Information  
 [Performance-Aware Mutual Knowledge Distillation for Improving Neural Architecture Search](https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_Performance-Aware_Mutual_Knowledge_Distillation_for_Improving_Neural_Architecture_Search_CVPR_2022_paper.pdf)  
 [Searching the Deployable Convolution Neural Networks for GPUs](https://arxiv.org/abs/2205.00841)  
-HyperSegNAS: Bridging One-Shot Neural Architecture Search With 3D Medical Image Segmentation Using HyperNet  
+[HyperSegNAS: Bridging One-Shot Neural Architecture Search With 3D Medical Image Segmentation Using HyperNet](https://openaccess.thecvf.com/content/CVPR2022/papers/Peng_HyperSegNAS_Bridging_One-Shot_Neural_Architecture_Search_With_3D_Medical_Image_CVPR_2022_paper.pdf) 
