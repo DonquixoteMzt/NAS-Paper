@@ -63,7 +63,7 @@ Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search
 [Arch-Graph: Acyclic Architecture Relation Predictor for Task-Transferable Neural Architecture Search](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Arch-Graph_Acyclic_Architecture_Relation_Predictor_for_Task-Transferable_Neural_Architecture_Search_CVPR_2022_paper.pdf)  
 [Shapley-NAS: Discovering Operation Contribution for Neural Architecture Search](https://openaccess.thecvf.com/content/CVPR2022/papers/Xiao_Shapley-NAS_Discovering_Operation_Contribution_for_Neural_Architecture_Search_CVPR_2022_paper.pdf)    
 [GreedyNASv2: Greedier Search With a Greedy Path Filter](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_GreedyNASv2_Greedier_Search_With_a_Greedy_Path_Filter_CVPR_2022_paper.pdf)  
-Neural Architecture Search With Representation Mutual Information  
+[Neural Architecture Search With Representation Mutual Information](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Neural_Architecture_Search_With_Representation_Mutual_Information_CVPR_2022_paper.pdf)  
 [Performance-Aware Mutual Knowledge Distillation for Improving Neural Architecture Search](https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_Performance-Aware_Mutual_Knowledge_Distillation_for_Improving_Neural_Architecture_Search_CVPR_2022_paper.pdf)  
 [Searching the Deployable Convolution Neural Networks for GPUs](https://arxiv.org/abs/2205.00841)  
 [HyperSegNAS: Bridging One-Shot Neural Architecture Search With 3D Medical Image Segmentation Using HyperNet](https://openaccess.thecvf.com/content/CVPR2022/papers/Peng_HyperSegNAS_Bridging_One-Shot_Neural_Architecture_Search_With_3D_Medical_Image_CVPR_2022_paper.pdf) 
