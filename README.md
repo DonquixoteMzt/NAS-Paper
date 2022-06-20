@@ -44,7 +44,7 @@ Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search
 [TNASP: A Transformer-based NAS Predictor with a Self-evolution Framework](https://proceedings.neurips.cc/paper/2021/hash/7fa1575cbd7027c9a799983a485c3c2f-Abstract.html)  
 [NAS-Bench-x11 and the Power of Learning Curves](https://proceedings.neurips.cc/paper/2021/hash/be3159ad04564bfb90db9e32851ebf9c-Abstract.html)  
 [Hardware-adaptive Efficient Latency Prediction for NAS via Meta-Learning](https://proceedings.neurips.cc/paper/2021/hash/e3251075554389fe91d17a794861d47b-Abstract.html)  
-[Stronger NAS with Weaker Predictors](https://proceedings.neurips.cc/paper/2021/hash/f22e4747da1aa27e363d86d40ff442fe-Abstract.html) 
+[Stronger NAS with Weaker Predictors](https://proceedings.neurips.cc/paper/2021/hash/f22e4747da1aa27e363d86d40ff442fe-Abstract.html)  
 [Speedy Performance Estimation for Neural Architecture Search](https://proceedings.neurips.cc/paper/2021/hash/2130eb640e0a272898a51da41363542d-Abstract.html)  
 [Evaluating Efficient Performance Estimators of Neural Architectures](https://proceedings.neurips.cc/paper/2021/hash/65d90fc6d307590b14e9e1800d4e8eab-Abstract.html)  
 [Generic Neural Architecture Search via Regression](https://proceedings.neurips.cc/paper/2021/hash/aba53da2f6340a8b89dc96d09d0d0430-Abstract.html)  
@@ -54,3 +54,5 @@ Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search
 [Parameter Prediction for Unseen Deep Architectures](https://proceedings.neurips.cc/paper/2021/hash/f6185f0ef02dcaec414a3171cd01c697-Abstract.html)  
 [Searching for Efficient Transformers for Language Modeling](https://proceedings.neurips.cc/paper/2021/hash/2f3c6a4cd8af177f6456e7e51a916ff3-Abstract.html)  
 [Searching the Search Space of Vision Transformer](https://proceedings.neurips.cc/paper/2021/hash/48e95c45c8217961bf6cd7696d80d238-Abstract.html)
+## CVPR 2022
+Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning  
