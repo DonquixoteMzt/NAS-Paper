@@ -55,7 +55,7 @@
 [NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection](https://openaccess.thecvf.com/content_CVPR_2019/html/Ghiasi_NAS-FPN_Learning_Scalable_Feature_Pyramid_Architecture_for_Object_Detection_CVPR_2019_paper.html)  
 [Fast Neural Architecture Search of Compact Semantic Segmentation Models via Auxiliary Cells](https://openaccess.thecvf.com/content_CVPR_2019/html/Nekrasov_Fast_Neural_Architecture_Search_of_Compact_Semantic_Segmentation_Models_via_CVPR_2019_paper.html) [[CODE]](https://github.com/DrSleep/nas-segm-pytorch)  
 [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://openaccess.thecvf.com/content_CVPR_2019/html/Tan_MnasNet_Platform-Aware_Neural_Architecture_Search_for_Mobile_CVPR_2019_paper.html) [[CODE]](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet)  
-[FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://openaccess.thecvf.com/content_CVPR_2019/html/Wu_FBNet_Hardware-Aware_Efficient_ConvNet_Design_via_Differentiable_Neural_Architecture_Search_CVPR_2019_paper.html)  
+[FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://openaccess.thecvf.com/content_CVPR_2019/html/Wu_FBNet_Hardware-Aware_Efficient_ConvNet_Design_via_Differentiable_Neural_Architecture_Search_CVPR_2019_paper.html) [[CODE]](https://github.com/facebookresearch/mobile-vision)  
 
 ### ICML 2019
 
@@ -104,7 +104,7 @@
 [UNAS: Differentiable Architecture Search Meets Reinforcement Learning](https://openaccess.thecvf.com/content_CVPR_2020/html/Vahdat_UNAS_Differentiable_Architecture_Search_Meets_Reinforcement_Learning_CVPR_2020_paper.html)  
 [GP-NAS: Gaussian Process Based Neural Architecture Search](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_GP-NAS_Gaussian_Process_Based_Neural_Architecture_Search_CVPR_2020_paper.html)  
 [NAS-FCOS: Fast Neural Architecture Search for Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_NAS-FCOS_Fast_Neural_Architecture_Search_for_Object_Detection_CVPR_2020_paper.html) [[CODE]](https://github.com/Lausannen/NAS-FCOS)  
-[FBNetV2: Differentiable Neural Architecture Search for Spatial and Channel Dimensions](https://openaccess.thecvf.com/content_CVPR_2020/html/Wan_FBNetV2_Differentiable_Neural_Architecture_Search_for_Spatial_and_Channel_Dimensions_CVPR_2020_paper.html)  
+[FBNetV2: Differentiable Neural Architecture Search for Spatial and Channel Dimensions](https://openaccess.thecvf.com/content_CVPR_2020/html/Wan_FBNetV2_Differentiable_Neural_Architecture_Search_for_Spatial_and_Channel_Dimensions_CVPR_2020_paper.html) [[CODE]](https://github.com/facebookresearch/mobile-vision)  
 
 ### ICML 2020
 
@@ -155,7 +155,7 @@
 [Searching by Generating: Flexible and Efficient One-Shot NAS With Architecture Generator](https://openaccess.thecvf.com/content/CVPR2021/html/Huang_Searching_by_Generating_Flexible_and_Efficient_One-Shot_NAS_With_Architecture_CVPR_2021_paper.html) [[CODE]](https://github.com/eric8607242/SGNAS)  
 [NetAdaptV2: Efficient Neural Architecture Search With Fast Super-Network Training and Architecture Optimization](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_NetAdaptV2_Efficient_Neural_Architecture_Search_With_Fast_Super-Network_Training_and_CVPR_2021_paper.html)  
 [MobileDets: Searching for Object Detection Architectures for Mobile Accelerators](https://openaccess.thecvf.com/content/CVPR2021/html/Xiong_MobileDets_Searching_for_Object_Detection_Architectures_for_Mobile_Accelerators_CVPR_2021_paper.html)  
-[DiNTS: Differentiable Neural Network Topology Search for 3D Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2021/html/He_DiNTS_Differentiable_Neural_Network_Topology_Search_for_3D_Medical_Image_CVPR_2021_paper.html)  
+[DiNTS: Differentiable Neural Network Topology Search for 3D Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2021/html/He_DiNTS_Differentiable_Neural_Network_Topology_Search_for_3D_Medical_Image_CVPR_2021_paper.html) [[CODE]](https://github.com/Project-MONAI/research-contributions/tree/main/DiNTS)  
 [AttentiveNAS: Improving Neural Architecture Search via Attentive Sampling](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_AttentiveNAS_Improving_Neural_Architecture_Search_via_Attentive_Sampling_CVPR_2021_paper.html) [[CODE]](https://github.com/facebookresearch/AttentiveNAS)  
 [Rethinking Graph Neural Architecture Search From Message-Passing](https://openaccess.thecvf.com/content/CVPR2021/html/Cai_Rethinking_Graph_Neural_Architecture_Search_From_Message-Passing_CVPR_2021_paper.html) [[CODE]](https://github.com/phython96/GNAS-MP)  
 [Towards Improving the Consistency, Efficiency, and Flexibility of Differentiable Neural Architecture Search](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_Towards_Improving_the_Consistency_Efficiency_and_Flexibility_of_Differentiable_Neural_CVPR_2021_paper.html)  
@@ -169,10 +169,10 @@
 [Landmark Regularization: Ranking Guided Super-Net Training in Neural Architecture Search](https://openaccess.thecvf.com/content/CVPR2021/html/Yu_Landmark_Regularization_Ranking_Guided_Super-Net_Training_in_Neural_Architecture_Search_CVPR_2021_paper.html) [[CODE]](https://github.com/kcyu2014/nas-landmarkreg)  
 [OPANAS: One-Shot Path Aggregation Network Architecture Search for Object Detection](https://openaccess.thecvf.com/content/CVPR2021/html/Liang_OPANAS_One-Shot_Path_Aggregation_Network_Architecture_Search_for_Object_Detection_CVPR_2021_paper.html)  
 [FP-NAS: Fast Probabilistic Neural Architecture Search](https://openaccess.thecvf.com/content/CVPR2021/html/Yan_FP-NAS_Fast_Probabilistic_Neural_Architecture_Search_CVPR_2021_paper.html)  
-[ViPNAS: Efficient Video Pose Estimation via Neural Architecture Search](https://openaccess.thecvf.com/content/CVPR2021/html/Xu_ViPNAS_Efficient_Video_Pose_Estimation_via_Neural_Architecture_Search_CVPR_2021_paper.html)  
+[ViPNAS: Efficient Video Pose Estimation via Neural Architecture Search](https://openaccess.thecvf.com/content/CVPR2021/html/Xu_ViPNAS_Efficient_Video_Pose_Estimation_via_Neural_Architecture_Search_CVPR_2021_paper.html) [[CODE]](https://github.com/open-mmlab/mmpose)  
 [FBNetV3: Joint Architecture-Recipe Search Using Predictor Pretraining](https://openaccess.thecvf.com/content/CVPR2021/html/Dai_FBNetV3_Joint_Architecture-Recipe_Search_Using_Predictor_Pretraining_CVPR_2021_paper.html)  
 [One-Shot Neural Ensemble Architecture Search by Diversity-Guided Search Space Shrinking](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_One-Shot_Neural_Ensemble_Architecture_Search_by_Diversity-Guided_Search_Space_Shrinking_CVPR_2021_paper.html) [[CODE]](https://github.com/researchmm/NEAS)  
-[TransNAS-Bench-101: Improving Transferability and Generalizability of Cross-Task Neural Architecture Search](https://openaccess.thecvf.com/content/CVPR2021/html/Duan_TransNAS-Bench-101_Improving_Transferability_and_Generalizability_of_Cross-Task_Neural_Architecture_Search_CVPR_2021_paper.html)  
+[TransNAS-Bench-101: Improving Transferability and Generalizability of Cross-Task Neural Architecture Search](https://openaccess.thecvf.com/content/CVPR2021/html/Duan_TransNAS-Bench-101_Improving_Transferability_and_Generalizability_of_Cross-Task_Neural_Architecture_Search_CVPR_2021_paper.html) [[CODE]](https://github.com/yawen-d/TransNASBench)  
 
 ### ICML 2021
 
@@ -190,7 +190,7 @@
 ### ICCV 2021
 
 [GLiT: Neural Architecture Search for Global and Local Image Transformer](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_GLiT_Neural_Architecture_Search_for_Global_and_Local_Image_Transformer_ICCV_2021_paper.pdf) [[CODE]](https://github.com/bychen515/GLiT)  
-[BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_BossNAS_Exploring_Hybrid_CNN-Transformers_With_Block-Wisely_Self-Supervised_Neural_Architecture_Search_ICCV_2021_paper.pdf)  
+[BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_BossNAS_Exploring_Hybrid_CNN-Transformers_With_Block-Wisely_Self-Supervised_Neural_Architecture_Search_ICCV_2021_paper.pdf) [[CODE]](https://github.com/changlin31/BossNAS)  
 [Achieving on-Mobile Real-Time Super-Resolution with Neural Architecture and Pruning Search](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhan_Achieving_On-Mobile_Real-Time_Super-Resolution_With_Neural_Architecture_and_Pruning_Search_ICCV_2021_paper.pdf)  
 [CM-NAS: Cross-Modality Neural Architecture Search for Visible-Infrared Person Re-Identification](https://openaccess.thecvf.com/content/ICCV2021/papers/Fu_CM-NAS_Cross-Modality_Neural_Architecture_Search_for_Visible-Infrared_Person_Re-Identification_ICCV_2021_paper.pdf) [[CODE]](https://github.com/JDAI-CV/CM-NAS)  
 [iNAS: Integral NAS for Device-Aware Salient Object Detection](https://openaccess.thecvf.com/content/ICCV2021/papers/Gu_iNAS_Integral_NAS_for_Device-Aware_Salient_Object_Detection_ICCV_2021_paper.pdf) [[CODE]](https://mmcheng.net/inas/)  
@@ -274,12 +274,12 @@
 
 [BLOX: Macro Neural Architecture Search Benchmark and Algorithms](https://neurips.cc/virtual/2022/poster/55668)  
 [Efficient Architecture Search for Diverse Tasks](https://neurips.cc/virtual/2022/poster/54271)  
-[EZNAS: Evolving Zero-Cost Proxies For Neural Architecture Scoring](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c474dc287c6de27fec2981f812c361e1-Abstract-Conference.html)  
+[EZNAS: Evolving Zero-Cost Proxies For Neural Architecture Scoring](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c474dc287c6de27fec2981f812c361e1-Abstract-Conference.html) [[CODE]](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning/tree/main/EZNAS)  
 [Few-shot Task-agnostic Neural Architecture Search for Distilling Large Language Models](https://neurips.cc/virtual/2022/poster/53671)  
 [Generalization Properties of NAS under Activation and Skip Connection Search](https://neurips.cc/virtual/2022/poster/53375)  
 [Interpreting Operation Selection in Differentiable Architecture Search: A Perspective from Influence-Directed Explanations](https://neurips.cc/virtual/2022/poster/53939)  
 [LiteTransformerSearch: Training-free Neural Architecture Search for Efficient Language Models](https://neurips.cc/virtual/2022/poster/54546)  
-[NAS-Bench-360: Benchmarking Neural Architecture Search on Diverse Tasks](https://neurips.cc/virtual/2022/poster/55691)  
+[NAS-Bench-360: Benchmarking Neural Architecture Search on Diverse Tasks](https://neurips.cc/virtual/2022/poster/55691) [[CODE]](https://github.com/rtu715/NAS-Bench-360)  
 [NAS-Bench-Graph: Benchmarking Graph Neural Architecture Search](https://neurips.cc/virtual/2022/poster/55694)  
 [NAS-Bench-Suite-Zero: Accelerating Research on Zero Cost Proxies](https://neurips.cc/virtual/2022/poster/55753)  
 [Saliency-Aware Neural Architecture Search](https://neurips.cc/virtual/2022/poster/55266)  
@@ -308,7 +308,7 @@
 ### ICML 2023
 
 [Shortest Edit Path Crossover: A Theory-driven Solution to the Permutation Problem in Evolutionary Neural Architecture Search](https://proceedings.mlr.press/v202/qiu23b.html)  
-[PreNAS: Preferred One-Shot Learning Towards Efficient Neural Architecture Search](https://proceedings.mlr.press/v202/wang23f.html)  
+[PreNAS: Preferred One-Shot Learning Towards Efficient Neural Architecture Search](https://proceedings.mlr.press/v202/wang23f.html) [[CODE]](https://github.com/tinyvision/PreNAS)  
 [Do Not Train It: A Linear Neural Architecture Search of Graph Neural Networks](https://proceedings.mlr.press/v202/xu23w.html)  
 
 ### ICCV 2023
